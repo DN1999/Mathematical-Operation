@@ -1,5 +1,5 @@
 # Mathematical-Operation
-The Console Based Application done in January 2020 and Export as Application.
+The Console Based Application done useing C++ in January 2020 and Export as Application.
 
 Here Details About the Projects Functionality.
  
@@ -35,15 +35,15 @@ Sub Menus:
 2.Square And Square root:
 ------------------------
 
-            ***** SQUARE and SQUARE ROOT *****
-    1. Square of a Number.
-    2. Square From 1 to 30
-    3. Square Upto 10 numbers From starting Number.
-    4. Square Root of a Number.
-    5. Square Root From 1 to 30
-    6. Square Root Upto 10 Numbers From starting number.
-    7. Main Menu.
-    8. Exit
+                    ***** SQUARE and SQUARE ROOT *****
+            1. Square of a Number.
+            2. Square From 1 to 30
+            3. Square Upto 10 numbers From starting Number.
+            4. Square Root of a Number.
+            5. Square Root From 1 to 30
+            6. Square Root Upto 10 Numbers From starting number.
+            7. Main Menu.
+            8. Exit
 -----------------------------------
 3. Cube And Cube root:
    -------------------
@@ -72,17 +72,17 @@ Sub Menus:
 5. Area:
    -------
    
-                      ***** AREA *****
-      Note : For Calculation all the units must be same
-      1. Area of Circle.
-      2. Area of Rectangle.
-      3. Area of Square.
-      4. Area of Cylender.
-      5. Area of Parallelogram.
-      6. Area of Elipse.
-      7. Area of Trapozoid.
-      8. Main Menu.
-      9. Exit
+                            ***** AREA *****
+            Note : For Calculation all the units must be same
+            1. Area of Circle.
+            2. Area of Rectangle.
+            3. Area of Square.
+            4. Area of Cylender.
+            5. Area of Parallelogram.
+            6. Area of Elipse.
+            7. Area of Trapozoid.
+            8. Main Menu.
+            9. Exit
 -----------------------------------
 6. Volume:
    -------
